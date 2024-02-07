@@ -28,6 +28,3 @@ let isLoggedIn = false; // it is a boolean value
 
 // Array 
 // object
-
-
-
